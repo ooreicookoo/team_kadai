@@ -169,3 +169,4 @@ While looking at the original issue, proceed with local feature development and 
 (This project is done only with the develop and feature branches. There is no need for the master branch.)
 ```
 # team_kadai01
+# team_kadai
